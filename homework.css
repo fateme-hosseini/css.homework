@@ -1,0 +1,23 @@
+.para{
+margin: auto;
+background-color: rgb(185, 214, 236);
+color: blue;
+width:20 ;
+height:50 ;
+padding: 60px;
+}
+.para2{
+    margin: auto;
+    background-color: rgb(233, 214, 246);
+    color:blue;
+    width: 20;
+    height:60 ;
+    padding: 60px;
+}
+.class{
+    margin: auto;
+    background-color: blueviolet;
+    width:20 ;
+    height:50 ;
+    padding: 60px;
+}
